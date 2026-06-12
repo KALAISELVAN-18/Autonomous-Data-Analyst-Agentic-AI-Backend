@@ -1,0 +1,51 @@
+order_id,customer_name,region,product_category,sales_amount,quantity,discount,profit,order_date,ship_mode
+1001,Alice Johnson,East,Electronics,1200.50,3,0.1,320.00,2024-01-15,Standard Class
+1002,Bob Smith,West,Furniture,850.00,2,,150.00,2024-01-18,Second Class
+1003,Carol White,South,Office Supplies,320.75,10,0.05,95.20,2024-01-20,First Class
+1004,David Brown,East,Electronics,2500.00,1,0.2,600.00,2024-01-22,Same Day
+1005,Eve Davis,Central,Furniture,1100.00,4,0.15,200.00,2024-01-25,Standard Class
+1006,Frank Miller,West,Office Supplies,180.00,8,,45.00,2024-01-28,Second Class
+1007,Grace Wilson,South,Electronics,3200.00,2,0.1,800.00,2024-02-01,First Class
+1008,Henry Moore,East,Furniture,650.00,3,0.05,120.00,2024-02-03,Standard Class
+1009,Irene Taylor,Central,Office Supplies,95.50,15,,28.00,2024-02-05,Second Class
+1010,Jack Anderson,West,Electronics,4500.00,1,0.25,1100.00,2024-02-08,Same Day
+1011,Karen Thomas,South,Furniture,750.00,2,0.1,140.00,2024-02-10,First Class
+1012,Leo Jackson,East,Office Supplies,210.00,12,0.05,60.00,2024-02-12,Standard Class
+1013,Maria Harris,Central,Electronics,1800.00,2,,420.00,2024-02-15,Second Class
+1014,Nathan Martin,West,Furniture,920.00,3,0.2,160.00,2024-02-18,First Class
+1015,Olivia Garcia,South,Office Supplies,450.00,20,0.1,110.00,2024-02-20,Same Day
+1016,Paul Martinez,East,Electronics,5500.00,1,0.3,1300.00,2024-02-22,Standard Class
+1017,Quinn Robinson,Central,Furniture,,2,0.15,90.00,2024-02-25,Second Class
+1018,Rachel Clark,West,Office Supplies,320.00,18,,80.00,2024-02-28,First Class
+1019,Sam Rodriguez,South,Electronics,2200.00,3,0.1,520.00,2024-03-02,Standard Class
+1020,Tina Lewis,East,Furniture,1050.00,4,0.2,195.00,2024-03-05,Same Day
+1021,Umar Lee,Central,Office Supplies,175.00,9,,50.00,2024-03-08,Second Class
+1022,Victoria Walker,West,Electronics,3800.00,2,0.15,900.00,2024-03-10,First Class
+1023,William Hall,South,Furniture,430.00,1,0.05,75.00,2024-03-12,Standard Class
+1024,Xena Allen,East,Office Supplies,280.00,14,,72.00,2024-03-15,Second Class
+1025,Yusuf Young,Central,Electronics,6200.00,1,0.35,1500.00,2024-03-18,Same Day
+1026,Zara King,West,Furniture,890.00,3,0.1,165.00,2024-03-20,First Class
+1027,Aaron Wright,South,Office Supplies,390.00,22,0.05,95.00,2024-03-22,Standard Class
+1028,Bella Scott,East,Electronics,2900.00,2,,680.00,2024-03-25,Second Class
+1029,Carlos Green,Central,Furniture,1200.00,5,0.2,220.00,2024-03-28,First Class
+1030,Diana Adams,West,Office Supplies,145.00,7,,40.00,2024-03-30,Same Day
+1031,Ethan Baker,South,Electronics,4100.00,1,0.25,990.00,2024-04-02,Standard Class
+1032,Fiona Gonzalez,East,Furniture,670.00,2,0.1,125.00,2024-04-05,Second Class
+1033,George Nelson,Central,Office Supplies,520.00,25,,130.00,2024-04-08,First Class
+1034,Hannah Carter,West,Electronics,1600.00,3,0.15,380.00,2024-04-10,Standard Class
+1035,Isaac Mitchell,South,Furniture,980.00,4,0.2,180.00,2024-04-12,Same Day
+1036,Julia Perez,East,Office Supplies,230.00,11,,60.00,2024-04-15,Second Class
+1037,Kevin Roberts,Central,Electronics,7000.00,1,0.4,1700.00,2024-04-18,First Class
+1038,Laura Turner,West,Furniture,540.00,2,0.05,100.00,2024-04-20,Standard Class
+1039,Marcus Phillips,South,Office Supplies,310.00,16,0.1,78.00,2024-04-22,Same Day
+1040,Nina Campbell,East,Electronics,3500.00,2,0.2,840.00,2024-04-25,Second Class
+1041,Oscar Parker,Central,Furniture,,3,0.15,135.00,2024-04-28,First Class
+1042,Priya Evans,West,Office Supplies,195.00,10,,52.00,2024-04-30,Standard Class
+1043,Quinn Edwards,South,Electronics,2700.00,1,0.1,640.00,2024-05-02,Second Class
+1044,Rosa Collins,East,Furniture,760.00,3,0.2,142.00,2024-05-05,Same Day
+1045,Steven Stewart,Central,Office Supplies,420.00,19,,105.00,2024-05-08,First Class
+1046,Tara Sanchez,West,Electronics,5100.00,2,0.3,1220.00,2024-05-10,Standard Class
+1047,Uma Morris,South,Furniture,830.00,2,0.1,155.00,2024-05-12,Second Class
+1048,Victor Rogers,East,Office Supplies,265.00,13,0.05,68.00,2024-05-15,First Class
+1049,Wendy Reed,Central,Electronics,1950.00,3,,460.00,2024-05-18,Same Day
+1050,Xavier Cook,West,Furniture,1100.00,4,0.25,200.00,2024-05-20,Standard Class

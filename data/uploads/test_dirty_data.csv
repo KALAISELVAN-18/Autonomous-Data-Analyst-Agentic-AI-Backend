@@ -1,0 +1,4 @@
+Order ID,Customer Name,Sales Amount,Order Date
+1001,Alice Johnson,$1,200.50,2024-01-15
+1002,Bob Smith,$850.00,2024-01-18
+1003,Carol White,,2024-01-20

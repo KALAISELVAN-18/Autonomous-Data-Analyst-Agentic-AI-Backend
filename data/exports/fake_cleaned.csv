@@ -1,0 +1,16 @@
+ID,Name,Age,Email,Phone Number,Salary,Joining Date,Department
+101,Arun Kumar,25.0,arun@gmail.com,9876543210.0,35000.0,2022-12-03 00:00:00,HR
+102,Priya S,27.5,priyasmail.com,9876543212.0,42000.0,31-02-2023,Finance
+103,Kavin,40.0,kavin@yahoo.com,987654321.0,50000.0,15/07/2021,IT
+104,Meena R,29.0,meena@@gmail.com,9876543218.0,43000.0,2022-11-18 00:00:00,Sales
+105,John,40.0,john@gmail,9999999999.0,45000.0,45-01-2020,HR
+106,Divya,27.0,divya@gmail.com,9876543212.0,38000.0,18-08-2021,Marketing
+107,Rahul,24.0,rahul@gmail.com,8765432109.0,11500.0,2022-11-12 00:00:00,IT
+108,Sneha,27.5,sneha@gmail.com,9988776655.0,47000.0,2020-10-10 00:00:00,Finance
+109,Ajay,26.0,ajaygmail.com,12345.0,52000.0,2023/15/09,Admin
+110,Pooja,30.0,pooja@gmail.com,9876543211.0,60000.0,14-05-2021,123
+111,Vikram,27.5,vikram@gmail.com,9876543212.0,41000.0,2022-01-13 00:00:00,IT
+112,Asha,28.0,asha@gmail..com,8888888888.0,39000.0,20-06-2021,HR
+113,Manoj,32.0,manoj@gmail.com,9876543213.0,11500.0,29-02-2021,Sales
+114,Keerthi,26.0,keerthi@gmail.com,9876543214.0,48000.0,14-05-2021,Marketing
+115,Sanjay,23.0,sanjay@gmail.com,9876543215.0,44000.0,2022-05-09 00:00:00,ITT

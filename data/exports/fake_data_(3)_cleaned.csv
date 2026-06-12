@@ -1,0 +1,16 @@
+id,name,age,email,phone_number,salary,department
+101,Arun Kumar,25.0,arun@gmail.com,9876543210.0,35000,HR
+102,Priya S,27.0,priya@gmail.com,9876543211.0,42000,Finance
+103,Kavin,28.0,kavin@yahoo.com,9987654321.0,50000,IT
+104,Meena R,29.0,meena@gmail.com,9876543218.0,50000,Sales
+105,John,28.0,john@gmail.com,9999999999.0,45000,HR
+106,Divya,27.0,divya@gmail.com,9384586344.0,38000,Marketing
+107,Rahul,24.0,rahul@gmail.com,9261597117.75,26500,IT
+108,Sneha,25.0,sneha@gmail.com,9988776655.0,47000,Finance
+109,Ajay,26.0,ajay@gmail.com,9261597117.75,52000,Admin
+110,Pooja,30.0,pooja@gmail.com,9876543211.0,60000,IT
+111,Vikram,20.5,vikram@gmail.com,9876543212.0,41000,IT
+112,Asha,28.0,asha@gmail.com,9261597117.75,39000,HR
+113,Manoj,32.0,manoj@gmail.com,9876543213.0,44500,Sales
+114,Keerthi,26.0,keerthi@gmail.com,9876543214.0,48000,Marketing
+115,Sanjay,23.0,sanjay@gmail.com,9876543215.0,44000,ITT
